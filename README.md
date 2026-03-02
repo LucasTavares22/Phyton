@@ -109,11 +109,11 @@ Projetos com foco mais próximo do mercado:
 
 Este repositório segue alguns princípios:
 
-* ✅ Código escrito majoritariamente por mim
-* ✅ Uso de IA apenas como apoio pontual de estudo
-* ✅ Evolução incremental e consciente
-* ✅ Foco em entendimento real da lógica
-* ✅ Projetos simples, mas bem estruturados
+*  Código escrito majoritariamente por mim
+*  Uso de IA apenas como apoio pontual de estudo
+*  Evolução incremental e consciente
+*  Foco em entendimento real da lógica
+*  Projetos simples, mas bem estruturados
 
 ---
 
