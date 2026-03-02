@@ -93,7 +93,7 @@ Projetos com foco mais próximo do mercado:
 
 ---
 
-## 📈 Roadmap de Aprendizado
+##  Roadmap de Aprendizado
 
 * [x] Lógica básica
 * [x] Estruturas de repetição
